@@ -138,3 +138,6 @@ document.querySelector('#btnExcluir').addEventListener('click', () => {
     excluirTarefa(5);
 });
 
+
+// ajustar problemas
+
